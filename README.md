@@ -1,3 +1,3 @@
 # TAU_Python_Programming
-Learn coding online
+Learn Python coding online for Test Automation from 
 https://testautomationu.applitools.com/python-tutorial/
